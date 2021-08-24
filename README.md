@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pervmax
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning python
+- 📫 How to reach me mrigendra.baidhya@gmail.com
